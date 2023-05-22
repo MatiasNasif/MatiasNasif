@@ -45,9 +45,10 @@
     <a href="#" alt="Tech Stack">
     <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=blue"/>
-    <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
+    <img src="https://shields.io/badge/react.js-black?logo=react&style=for-the-badge" />
+    <img src="https://shields.io/badge/react.native-black?logo=react&style=for-the-badge" />
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=black" />
+    <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=green" />
     <img src="https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs&logoColor=red" />
   </a>
 </p>
