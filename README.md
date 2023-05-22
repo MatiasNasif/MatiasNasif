@@ -43,8 +43,8 @@
 <h2 align="center">🛠 Tecnologías 🛠</h2>
 <p align="center">
     <a href="#" alt="Tech Stack">
-    <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/>
-    <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
+    <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=blue"/>
     <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=black" />
