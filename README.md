@@ -1,5 +1,4 @@
-<h1 align="center">Hola a todos 👋<br><br>Mi nombre es Matias Nasif :)<br>
-<img src="images/gifCodeHomer.gif" />
+<h1 align="center">Hola a todos 👋<br><br>Mi nombre es Matias Nasif :)<br><br><img src="images/gifCodeHomer.gif" />
 </h1>
 
 <h2 align="center">
@@ -7,7 +6,7 @@
   <summary align="center">Contáctame! ✔</summary>
      <br>
      <p>• Buenos Aires - Argentina</p>
-     <p>• <a href="mailto:matiasezequielnasif@gmail.com">matiasezequielnasif@gmail.com</a></p>
+     <p>• <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matiasezequielnasif@gmail.com">matiasezequielnasif@gmail.com</a></p>
  </details>
 </h2>
 
@@ -20,6 +19,10 @@
 
  <a href="https://www.linkedin.com/in/matiasnasif/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+
+  <a href="https://wa.me/+5491165761087" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" />
  </a>
 
 <h2 align="center">📊 Estadísticas 📊</h2>
